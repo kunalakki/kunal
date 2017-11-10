@@ -1,0 +1,18 @@
+This system is an Online ordering system, written using PHP/MySQL. 
+the feature of this system are the following:
+-order product online
+-upload product design online
+-add, edit , delete product
+-send confirmation via email
+-manage Online order
+-single page design
+-ajax hierarchical combo box for payment method.
+-add delivery charge outside the coverage area
+-secure reservation
+-Furom for customer comments about the site
+-It generates various report
+and many more, to view the output of this code just download the zip file attach, that include the sql and the php file.
+ 
+database name:shoopingcart
+admin username:admin
+admin password:admin
